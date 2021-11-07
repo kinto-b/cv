@@ -1,0 +1,1 @@
+# Curriculum VitaeThis CV was written entirely by me on a rainy Sunday afternoon. The design was inspired by a template on Canva. Feel free to fork this repository and use it as a template for yourself. The code is entirely HTML and CSS, so modifying it to your taste should be a fairly straightforward exercise.
